@@ -13,13 +13,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rustam18-dev.rustam18-dev&"  />
-</div>
-
-###
 
 <h3 align="left">👩‍💻  Обо мне</h3>
 
