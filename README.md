@@ -73,4 +73,3 @@
 
 ###
 
-![WakaTime Stats from July 2024](https://github-readme-stats.vercel.app/api/wakatime?username=radzhabov_dev&theme=radical)
